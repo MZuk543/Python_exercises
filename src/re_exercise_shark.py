@@ -2,7 +2,6 @@
 import re
 import sys
 
-
 def main():
     # command-line arguments: input and output file name
     if len(sys.argv) == 1:
